@@ -33,8 +33,8 @@
                 Pellentesque efficitur ac velit eget placerat. Suspendisse dolor nibh, tempus sit amet<br/>  mi a, semper maximus turpis. Suspendisse eu sagittis sapien.
             </p>
         </div>
-        <div class="footer"><br/><br/>
-            https://github.com/jihob28th/L2-3_Aguilar_Carl<br/>
+        <div class="footer"><br/>
+            https://github.com/jihob28th/L2-3_Aguilar_Carl<br/><br/>
             © 2020 Freelance Hub. All rights reserved.
         </div><br/>
     </body>
