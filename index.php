@@ -34,6 +34,7 @@
             </p>
         </div>
         <div class="footer"><br/><br/>
+            https://github.com/jihob28th/L2-3_Aguilar_Carl
             © 2020 Freelance Hub. All rights reserved.
         </div><br/>
     </body>
